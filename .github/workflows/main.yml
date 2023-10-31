@@ -7,4 +7,4 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - run: |
-          jar cvf Grosheny.war * && ls
+          jar cvf Thibaut.war * && ls
